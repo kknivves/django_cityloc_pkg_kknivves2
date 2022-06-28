@@ -6,7 +6,7 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_cityloc_pkg_kknivves
+.. automodule:: django_cityloc_pkg_kknivves2
     :members:
 
 
